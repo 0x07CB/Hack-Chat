@@ -1,0 +1,8 @@
+[Unit]
+Description=HackChat COM API Service
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=15
+ExecStart=bash /usr/bin/hackchat-com-api.sh

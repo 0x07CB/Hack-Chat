@@ -1,0 +1,23 @@
+{
+    "about": {
+        "node": {
+            "version": "0.3.6",
+            "beta": true,
+            "name": null
+        },
+        "originals-build-signatures": {
+            "4push.txt": "250fdbe8ea77b539e3fe17ade0a0b17f657d83c2e48a4cb2ed2c2467a8da32b8558fa59c9dc4867d94135bf15210f552d562362a4b6601879e4f53c21e5098d2",
+            "HackChat.py": "3df5bbd4ff6a79ac601af35a52817b234abaedcb9e3e5b46da09d7c88ba66dd03463b977c0bfbe8f4098137e6494baf66933381af485956329b258d866e830c0",
+            "install-all.sh": "f0978bc8f8bdb4eea287bad5c86147ea916d230c8d4da65bc782a579328c26f98c9fdae6564ddb6a0f040d50d15812ebae85149ae49f0d3f8bdae1d2ee974344",
+            "install_deps.sh": "9f84bce85fb404461dc0eb4ddeea8b1cf855147b0f8ca0001fac97ae137e01315d506ec07e7d0a38b41a647cacab110f43a0fb880b8b274df5a6487bebbe2d30",
+            "4push.json": "18f9d923ed1fc8a8b3b3780d13135394db4b68deacd6bdfc67f97da5d887481f8b02f77ff5a7d762b28818da0f8b3f9072b843c1dae8840e8d4ac5a2bce03beb",
+            "config_connect.json": "39c5fa0e9fe1d7886144748a3295c70158ad94aaa275f299db34ff81c5fa8660f5dbb62c572cf349b8f740c10f3d9f8dc3443caf458d0b8884fbe7406c9591e6",
+            "sensors.json": "5e33eace18dee78c78d9f4c9c6ec5704251a4ca008ed0c91d8a7ee8240c74eec17b92cfe587a7ea1a0618d5ef679d23fca3390e909c589d248e9d095194c2fad",
+            "TASK.md": "a00b5e7fc2c32091eb925137aa48c191278932060c2aca9594a89747ee46717bf1f84adc493b6e2449941d615f523d1685242f0ab1a9a6424564bae886e02b0c"
+        },
+        "maintainer": {
+            "name": null,
+            "email": null
+        }
+    }
+}
